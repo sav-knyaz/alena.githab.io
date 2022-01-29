@@ -558,7 +558,7 @@ h1 {
        margin: 20px 250px;
        transform: scale(1, 1);
         z-index: 1010;
-        width: 100%;
+        width: 76px;
      }
      #line{
        max-width: 76px;
