@@ -617,8 +617,8 @@ h1 {
         top: 472px;
         width: 320px;
         left: 0;
-        font-size: 14px;
-        line-height: 18px;
+        font-size: 12px;
+        line-height: 16px;
     }
     .info__link_text {
         top: 602px;
@@ -626,8 +626,8 @@ h1 {
         width: 70px;
         height: 17px;
         padding: 5px 19px;
-        font-size: 14px;
-        line-height: 18px;
+        font-size: 12px;
+        line-height: 16px;
     }
     .photo_author {
         position: absolute;
